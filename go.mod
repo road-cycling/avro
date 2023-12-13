@@ -1,4 +1,4 @@
-module github.com/hamba/avro/v2
+module github.com/road-cycling/avro/v2
 
 go 1.19
 
